@@ -10,3 +10,5 @@ see the output, my is
 ```
 
 please see MyTask.groovy
+
+for debug use `./gradlew clean replicate -Dorg.gradle.debug=true` gradle stops at the beginnig and listens on 5005 port
