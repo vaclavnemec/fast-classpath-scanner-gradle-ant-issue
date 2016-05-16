@@ -1,4 +1,4 @@
-# file-classpath-scanner-gradle-ant-issue
+# fast-classpath-scanner-gradle-ant-issue
 on Mac or Linux run `./gradlew clean replicate` on Windows something like `gradlew.bat clean replicate`
 
 see the output, my is
