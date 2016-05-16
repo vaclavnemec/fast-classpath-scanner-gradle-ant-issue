@@ -1,0 +1,1 @@
+# file-classpath-scanner-gradle-ant-issue
